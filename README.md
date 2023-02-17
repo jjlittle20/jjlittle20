@@ -11,13 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [www.jameslittle.co.uk](www.jameslittle.co.uk)
 
-- 📝 I regularly write articles on [www.jameslittle.co.uk/blog](www.jameslittle.co.uk/blog)
-
+- 📝 I regularly write articles on [www.jameslittle.co.uk](www.jameslittle.co.uk/blog) and[https://hackaday.io/bigJim](https://hackaday.io/bigJim)
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **jameslittle12@hotmail.com**
 
-- 📄 Know about my experiences [www.jameslittle.co.uk/cv](www.jameslittle.co.uk/cv)
+- 📄 Know about my experiences [www.jameslittle.co.uk](www.jameslittle.co.uk)
 
 - ⚡ Fun fact **I am into microprocessors and single board computers**
 
