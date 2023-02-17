@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.jameslittle.co.uk](www.jameslittle.co.uk)
 
-- 📝 I regularly write articles on [www.jameslittle.co.uk](www.jameslittle.co.uk/blog) and[https://hackaday.io/bigJim](https://hackaday.io/bigJim)
+- 📝 I regularly write articles on [www.jameslittle.co.uk](www.jameslittle.co.uk/blog) and [https://hackaday.io/bigJim](https://hackaday.io/bigJim)
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **jameslittle12@hotmail.com**
